@@ -1,0 +1,15 @@
+Hans Heinrich Euler
+
+Hans Heinrich Euler (b. 6 October 1909 in Merano, d. 1941) was a German physicist. He received his PhD in 1935 at the University of Leipzig under Werner Heisenberg with a thesis Über die Streuung von Licht an Licht nach der Diracschen Theorie (On the scattering of light by light based on Dirac's theory).
+Euler was the first physicist who was able to show that Paul Dirac's introduction of the positron opens the possibility that photons in electron-positron pair production scatter with each other and calculated the cross section for this process in his PhD thesis.
+Based on the observations of Helmuth Kulenkampff, Euler and Heisenberg were able to calculate an improved figure for meson decay time. They also introduced the Euler–Heisenberg Lagrangian that laid the basis for the quantitative treatment of vacuum polarization.
+Euler died in a reconnaissance flight over the Sea of Azov, during World War II. He had joined the Luftwaffe a few months earlier.
+
+Publications by Hans Euler
+	Hans Euler, "Über die Streuung von Licht an Licht nach der Diracschen Theorie", Annalen der Physik, Vol. 418, 1936, pp. 398–448.
+	Hans Euler and Bernhard Kockel, "Über die Streuung von Licht an Licht nach der Diracschen Theorie", Naturwissenschaften, Vol. 23, 1935, p. 246
+	Werner Heisenberg and Hans Euler, "Folgerungen aus der Diracschen Theorie des Positrons", Zeitschrift für Physik, Vol. 98, 1936, pp. 714–732 [English translation: "Consequences of Dirac Theory of the Positron"].
+
+References
+	Dieter Hoffmann, "Kriegsschicksale: Hans Euler," Physikalische Blätter, vol. 45, no. 9, 1989, pp. 382–383.
+	Werner Heisenberg, "Physics and Beyond (World Perspectives)", 1971, pp. 176–179.

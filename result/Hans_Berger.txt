@@ -1,0 +1,99 @@
+Hans Berger
+
+Hans Berger (21 May 1873 – 1 June 1941) was a German psychiatrist. He is best known as the inventor of electroencephalography (EEG) (a method for recording "brain waves") in 1924, coining the name,[1][2] and as the discoverer of the alpha wave rhythm, also known as the "Berger wave".
+
+Contents
+
+	1 Biography
+	2 Research
+	3 Hans-Berger-Preis
+	4 See also
+	5 Sources
+		5.1 Notes
+		5.2 Print
+		5.3 Online
+	6 Further reading
+	7 External links
+
+Biography
+Berger was born in Neuses (now part of Coburg), Saxe-Coburg and Gotha, Germany.
+After attending Casimirianum, where he gained his abitur in 1892, Berger enrolled as a mathematics student at the Friedrich Schiller University of Jena with a view to becoming an astronomer. After one semester, he abandoned his studies and enlisted for a year of service in the cavalry. During a training exercise, his horse suddenly reared and he landed in the path of a horse-drawn cannon. The driver of the artillery battery halted the horses in time, leaving the young Berger shaken but with no serious injuries.[3] His sister, at home many kilometres away, had a feeling he was in danger and insisted their father telegram him. The incident made such an impression on Berger that, years later in 1940, he wrote: "It was a case of spontaneous telepathy in which at a time of mortal danger, and as I contemplated certain death, I transmitted my thoughts, while my sister, who was particularly close to me, acted as the receiver."[4]
+On completion of his military service, and obsessed by the idea of how his mind could have carried a signal to his sister, Berger returned to Jena to study medicine with the goal of discovering the physiological basis of "psychic energy".[5] His central theme became "the search for the correlation between objective activity in the brain and subjective psychic phenomena".[6]
+After obtaining his medical degree from Jena in 1897, Berger joined the staff of Otto Ludwig Binswanger (1852–1929) who held the Chair in psychiatry and neurology at the Jena clinic. Habilitated in 1901, he qualified as a senior university lecturer in 1906 and physician-in-chief in 1912, eventually succeeding Binswanger in 1919.[7] He also collaborated with two famous scientists and physicians, Oskar Vogt (1870–1959) and Korbinian Brodmann (1868–1918), in their research on lateralization of brain function. Berger married his technical assistant, Baroness Ursula von Bülow, in 1911 and later served as an army psychiatrist on the Western front during World War I.[8] He was elected Rector of Jena University in 1927.
+In 1924, Berger succeeded in recording the first human electroencephalogram (EEG).[9] Filled with doubt, he took five years to publish his first paper in 1929 which demonstrated the technique for "recording the electrical activity of the human brain from the surface of the head".[10] His findings were met with incredulity and derision by the German medical and scientific establishments.[11] Having visited the EEG laboratory at Jena in 1935, American roboticist William Grey Walter noted that Berger:
+After British electrophysiologists Edgar Douglas Adrian and B. H. C. Matthews confirmed Berger's basic observations in 1934, the importance of his discoveries in electroencephalography (EEG) were finally recognized at an international forum in 1937.[13] By 1938, electroencephalography had gained widespread recognition by eminent researchers in the field, leading to its practical use in diagnosis in the United States, England, and France.[14]
+In 1938, at the retirement age of 65, Berger was made Professor Emeritus in Psychology. According to biographers Niedermeyer and Lopes da Silva, the appointment occurred in an unceremonious manner as his relationship with the Nazi regime was particularly strained.[15] Numerous sources report that, given their hostile relationship, the Nazis forced Berger into retirement that same year with a complete ban of any further work on EEG.[16] These biographical accounts were contradicted in 2005 by Ernst Klee, a German journalist specializing in the exposure and documentation of Nazi medical crimes.[17] In 2005, Dr Susanne Zimmermann, medical historian at the University of Jena, found evidence that Berger had not been forced into retirement but had "served on the selection committee for his successor"[18] Berthold Kihn, who was sacked as a Nazi after the war. Moreover, official records at the University of Jena dating from the 1930s proved that Berger had served on the Erbgesundheitsgericht (Court for Genetic Health) that imposed sterilizations while his diaries contained anti-Semitic comments.[19] Dr Zimmermann's findings corroborated research published in Germany in 2003 documenting Berger's invitation by the SS racial hygienist Karl Astel to work for the EGOG (Court for Genetic Health) in 1941. Berger replied: "I am gladly willing to work again as an assessor at the Court for Genetic Health in Jena, for which I thank you."[20] Berger did not join the SS, SA or Nazi party "despite the significant Nazification of the University of Jena, but was a supporting SS member, possibly for self-protection."[21]
+After a long period of clinical depression, and suffering from a severe skin infection,[22] Berger committed suicide by hanging on June 1, 1941 in the southern wing of the clinic.
+
+Research
+Among his many research interests in neurology, Berger studied brain circulation, psychophysiology and brain temperature. However his main contribution to medicine and neurology was the systematic study of the electrical activity of human brain and the development of electroencephalography (EEG), following the pioneering work done by Richard Caton (1842–1926) in England with animals. In 1924, Berger made the first EEG recording of human brain activity and called it Elektrenkephalogramm.
+Using the EEG he was also the first to describe the different waves or rhythms which were present in the normal and abnormal brain, such as the alpha wave rhythm (7.812–13.28 Hz), also known as "Berger's wave"; and its suppression (substitution by the faster beta waves) when the subject opens the eyes (the so-called alpha blockade). He also studied and described for the first time the nature of EEG alterations in brain diseases such as epilepsy.
+His method involved inserting silver wires under the patients scalp, one at the front of the head and one at the back. Later he used silver foil electrodes attached to the head by a rubber bandage. As a recording device he first used the Lippmann's capillary electrometer, but results were disappointing. He then switched to the string galvanometer and later to a double-coil Siemens recording galvanometer, which allowed him to record electrical voltages as small as one ten thousandth of a volt. The resulting output, up to three seconds in duration, was then photographed by an assistant.
+
+Hans-Berger-Preis
+Hans-Berger-Preis is awarded triennially by the Deutsche Gesellschaft für Klinische Neurophysiologie (German Society of Clinical Neurophysiology) for long-standing, extensive academic work in theoretical or clinical neurophysiology.[23]
+
+See also
+	Sleep medicine
+
+Sources
+Notes
+	Berger's invention has been described "as one of the most surprising, remarkable, and momentous developments in the history of clinical neurology." David Millet (2002), "The Origins of EEG" International Society for the History of the Neurosciences (ISHN)
+	Tudor, M.; Tudor, L.; Tudor, K. I. (2005). "Hans Berger (1873-1941)--the history of electroencephalography". Acta Medica Croatica : Casopis Hravatske Akademije Medicinskih Znanosti. 59 (4): 307–13. PMID 16334737.
+	Dean Radin (2006), Entangled Minds, 21.
+	Hans Berger (1940), Psyche, 6.
+	Radin (2006), Entangled Minds, 21.
+	Hans Berger bio
+	H. R. Wiedemann (1994), "Hans Berger" in European Journal of Pediatrics, Vol. 153, Number 10, 705.
+	Hans Berger bio Answers.com
+	Haas, LF (January 2003). "Hans Berger (1873-1941), Richard Caton (1842-1926), and electroencephalography". J. Neurol. Neurosurg. Psychiatry. 74 (1): 9. doi:10.1136/jnnp.74.1.9. PMC 1738204. PMID 12486257.
+	Millet (2002), "The Origins of EEG" (ISHN).
+	"[...] the medical and scientific establishments met him with incredulity and overwhelming skepticism when they did not ignore him altogether." Millet (2002), The Origins of EEG (ISHN).
+	W. Grey Walter (1953), The Living Brain, page no. required
+	Hans Berger bio Encyclopedia.com
+	Wiedemann (1994), "Hans Berger" in European Journal of Pediatrics, 705.
+	"Dr. Hans Berger" Online document of the Dept of Neurology, Univ. of Illinois at Chicago. Niedermeyer, Ernst and Lopes da Silva, Fernando (2005). Electroencephalography: Basic Principles, Clinical Applications, and Related Fields.
+	Tudor, M; Tudor, L; Tudor, KI (2005). "[Hans Berger (1873-1941)--the history of electroencephalography]". Acta Med Croatica. 59 (4): 307–13. PMID 16334737.
+	That Berger was a member of the SS has yet to be double-checked for this article. The German-language source provided is: Ernst Klee, Das Personenlexikon zum Dritten Reich: Wer war was vor und nach 1945, 41
+	Quoted in R. Douglas Fields (2009), The Other Brain: From Dementia to Schizophrenia, 150 Google Books
+	Fields (2009), The Other Brain: From Dementia to Schizophrenia, 150-151 Google Books
+	The exact German quotation is as follows: "Als ihn 1941 Karl Astel bat, erneut am EGOG Jena tätig zu werden, teilte Berger mit: 'Ich bin sehr gerne bereit, wieder als Beisitzer beim Erbgesundheitsobergericht in Jena mitzuwirken und danke Ihnen dafür.' Ein Einsatz Bergers erfolgte nicht mehr, da er sich am 1. Juni 1941 im „Zustand tiefster Depressionen" das Leben nahm." In Hoßfeld, John, Lemuth, and Stutz (2003), "Kämpferische Wissenschaft" - Studien zur Universität Jena im Nationalsozialismus, 414. Google Books
+	Zeidman, Lawrence A.; Stone, James; Kondziella, Daniel (2014-07-01). "New revelations about Hans Berger, father of the electroencephalogram (EEG), and his ties to the Third Reich". Journal of Child Neurology. 29 (7): 1002–1010. doi:10.1177/0883073813486558. ISSN 1708-8283. PMID 23752072.
+	Radin (2006). Entangled Minds, 23.
+	Die Deutsche Gesellschaft für Klinische Neurophysiologie - DKGN (Deutsche EEG-Gesellschaft). Preise und Preisträger; Erläuterungen zu Ehrungen und Preisen, Further information about honours and awards
+11. W. Grey Walter (1953), The Living Brain, p. 30
+Print
+	Berger, Hans (1940). Psyche. Jena: Gustav Fischer.
+	—. Über das Elektrenkephalogramm des Menschen. Archiv für Psychiatrie und Nervenkrankheiten, 1929, 87: 527-570.
+	Fields, R. Douglas (2009). The Other Brain: From Dementia to Schizophrenia. New York: Simon &amp; Schuster. ISBN&nbsp;978-0-7432-9141-5
+	Klee, Ernst (2005). Das Personenlexikon zum Dritten Reich: Wer war was vor und nach 1945. Frankfurt am Main: Fischer-Taschenbuch-Verlag. ISBN&nbsp;3-596-16048-0
+	Hoßfeld Uwe, John Jürgen, Lemuth Oliver, Stutz Rüdiger (2003). "Kämpferische Wissenschaft" - Studien zur Universität Jena im Nationalsozialismus., Köln: Böhlau Verlag Gmbh. ISBN&nbsp;3-412-04102-5.
+	Niedermeyer, Ernst and Lopes da Silva, Fernando (2005). Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. Baltimore: Lippincott Williams &amp; Wilkins (5th Edition). ISBN&nbsp;0-7817-5126-8
+	Radin, Dean (2006). Entangled Minds. New York: Paraview Pocket Books. ISBN&nbsp;1-4165-1677-8
+	Walter, W. Grey (1953). The Living Brain. New York: Norton.
+Online
+	Andreae, H. (1967), "To the great psychiatrist, Professor Hans Berger, an exemplary physician and genial researcher. In the 25th year of remembrance (1873-1941)", Deutsches Medizinisches Journal (published Feb 5, 1967), 18 (3), pp. 83–4, PMID 4876739
+	Blakemore, Colin (1977), Mechanics of the Mind, London: Cambridge University Press, pp. 49–51.
+	Cortez, P.; Crotez-Sărmăşanu, M. L. (1976), "Hans Berger (1873-1941)", Revista de medicină internă, neurologie, psihiatrie, neurochirurgie, dermato-venerologie. Neurologie, psihiatrie, neurochirurgie, 21 (4), pp. 304–5, PMID 799341
+	Fischgold, H. (1962), "Hans Berger and his time", Actualités Neurophysiologiques, 4, pp. 197–221, PMID 14072351
+	Fischgold, H. (1967), "Hans Berger and his time", Beiträge zur Neurochirurgie, 14, pp. 7–11, PMID 4873369
+	Gerhard, U-J; Schönberg, A.; Blanz, B. (2005), "Hans Berger and the Legend of the Nobel Prize", Fortschritte der Neurologie-Psychiatrie (published Mar 2005), 73 (3), pp. 156–60, doi:10.1055/s-2004-830086, PMID 15747225
+	Gloor, P. (1969), "The Work of Hans Berger", Electroencephalography and Clinical Neurophysiology (published Sep 1969), 27 (7), p. 649, doi:10.1016/0013-4694(69)91207-3, PMID 4187257
+	Gloor, P. (1969), "Hans Berger and the discovery of the electroencephalogram", Electroencephalography and Clinical Neurophysiology, pp. Suppl 28:1–36, PMID 4188910
+	Haas, L. F. (2003), "Hans Berger (1873–1941), Richard Caton (1842–1926), and electroencephalography", Journal of Neurology, Neurosurgery & Psychiatry (published Jan 2003), 74 (1), p. 9, doi:10.1136/jnnp.74.1.9, PMC 1738204, PMID 12486257
+	Karbowski, K. (2002), "Hans Berger (1873-1941)", Journal of Neurology, Neurosurgery & Psychiatry (published Aug 2002), 249 (8), pp. 1130–1, doi:10.1007/s00415-002-0872-4, PMID 12420722
+	Klapetek, J. (1969), "Reminiscence of Hans Berger", Dtsch. Med. Wochenschr. (published Oct 10, 1969), 94 (41), pp. 2123–6, PMID 4898295
+	Kolle, K. (1970), "40 years of Electroencephalography (EEG). In memoriam Hans Berger", Münchener medizinische Wochenschrift (1950) (published Apr 10, 1970), 112 (5), pp. 712–3, PMID 4939408
+	Millett, D. (2001), "Hans Berger: From Psychic Energy to the EEG", Perspectives in Biology and Medicine, 44 (4), pp. 522–42, doi:10.1353/pbm.2001.0070, PMID 11600799
+	Schulte, W. (1959), "Hans Berger: a biography of the discoverer of the electroencephalogram", Münchener medizinische Wochenschrift (1950) (published May 29, 1959), 101 (22), pp. 977–80, PMID 13674375
+	Tudor, Mario; Tudor, Lorainne; Tudor, Katarina Ivana (2005), "Hans Berger (1873-1941): the history of electroencephalography", Acta Medica Croatica : Casopis Hravatske Akademije Medicinskih Znanosti, 59 (4), pp. 307–13, PMID 16334737
+	Walsa, R. (1991), "Hans Berger (1873-1941)", Orvosi Hetilap (published Oct 20, 1991), 132 (42), pp. 2327–30, PMID 1945370
+	Wieczorek, V. (1991), "In memory of Hans Berger. Inventor of the human electroencephalogram", Der Nervenarzt (published Aug 1991), 62 (8), pp. 457–9, PMID 1944707
+	Wiedemann, H. R. (1994), "Hans Berger (1873-1941)", European Journal of Pediatrics (published Oct 1994), 153 (10), p. 705, doi:10.1007/BF01954482, PMID 7813523
+
+Further reading
+	Schulte, B.P.M. (1970), "Berger, Hans", Dictionary of Scientific Biography, 2, New York: Charles Scribner's Sons, pp. 1–2, ISBN 0-684-10114-9.
+
+External links
+	Hans Berger bio at Encyclopedia.com
+	Hans Berger at Who Named It.com

@@ -1,0 +1,73 @@
+Frank Conrad
+
+Frank Conrad (May 4, 1874 – December 10, 1941) was an electrical engineer, best known for radio development, including his work as a pioneer broadcaster. He worked for the Westinghouse Electrical and Manufacturing Company in East Pittsburgh, Pennsylvania for half a century. His experimental radio station provided the inspiration, and he acted in an advisory role, for the establishment of Westinghouse's first broadcasting service, over radio station KDKA.
+
+Contents
+
+	1 Early life
+	2 Early radio work
+	3 Broadcasting station KDKA
+	4 Later life
+	5 Death and legacy
+	6 References
+	7 External links
+
+Early life
+Conrad was born May 4, 1874 in Pittsburgh, Pennsylvania, the son of Herbert M. Conrad, a railroad mechanic, and Sadie Conrad. His formal education ended with 7th grade, however in 1928 his work would be recognized with an honorary Doctor of Science degree from the University of Pittsburgh. He began employment at the Westinghouse Electrical and Manufacturing Company at age 16,[1] and at 23 began working in Westinghouse's Testing Department, where he and another engineer, H. P. Davis, developed the first circular-type watt-hour meter (known as the 'Round Type'). In 1937, it was estimated that 30 million induction-type watt-hour meters were in use.[2] In 1904, the company appointed him General Engineer, and he was promoted to Assistant Chief Engineer in 1921. Conrad was awarded more than 200 patents internationally throughout his life. He was awarded 177 U.S. patents, and at least 42 in the United Kingdom and at least 9 in Germany[3]
+
+Early radio work
+Conrad first became interested in radio in 1913, the result of a bet with a co-worker over whose watch was more accurate. Conrad won the bet, in part because he secretly replaced his cheap watch's internal components with the mechanism from a more expensive watch.[4] While conducting the time comparisons, Conrad began to doubt the accuracy of time signals provided by a Western Union telegraph service, so he built a simple radio receiver to pick up the official Naval Observatory time signals, broadcast nightly by station NAA in Arlington, Virginia. With this receiver he also overheard transmissions being made by a neighbor, John Coleman, so Conrad built a transmitter in order to communicate with Coleman and other local amateur radio operators. After moving from Swissvale to Wilkinsburg, Pennsylvania, he installed a radio station on the top floor of a two-story garage adjacent to his home.[5] In the summer of 1916 this station was issued an Experimental license, with the call sign 8XK.[6] At this time the station employed a spark-transmitter, thus could only be used for Morse code transmissions.
+In April 1917, due to the entrance of the United States into World War One, all civilian radio stations were ordered silenced, including 8XK. During the war Westinghouse was awarded government contracts related to developing radio technology, and Conrad worked on improvements to radio equipment (SCR-69 transmitter and SCR-70 receiver)[7] for the Army Signal Corps. In addition to Morse code, this development work included radiotelephone transmissions, using the recently developed capabilities of vacuum-tube transmitters. In conjunction with his wartime work Conrad was authorized to operate a radio transmitter from his home, using the call sign 3WE, for communication with a second station located at the Westinghouse plant in East Pittsburgh.[8] He also produced a wind-driven electrical generator, attached to a plane's wing, for powering a radio transmitter.
+Effective October 1, 1919, the ban on civilian radio stations was lifted. Although his station would not be formally relicensed until January 21, 1921,[9] Conrad resumed experimenting, again using the 8XK callsign,[10] and now also testing vacuum-tube radiotelephone equipment.
+He was responsible for one of the country's first post-war radio broadcasts, when, on the evening of October 17, 1919,[11] he entertained local amateurs with selections from phonograph records. This was the start of a series of test broadcasts, and the novelty of the entertainment proved popular with his audience. Responding to their interest, Conrad adopted a semi-regular schedule, primarily consisting of two hours on Saturday and also Wednesday nights. (The broadcasts weren't universally appreciated, as his wife later reported that he also "used to get phone calls at all hours of the day and night telling him to get off the air".)[4]
+Most of these early broadcasts consisted of music, provided from Conrad's record collection. After he exhausted this resource, he struck a deal with the local Brunswick Shop: in exchange for the store supplying him with recently released records, he would provide on-air acknowledgements.[12] (The son of the Brunswick Shop's owner had been assisting Conrad). Conrad's sons and niece were talented musicians and helped provide the entertainment. He also ran a telephone line from his home's music room to the transmitter in the garage, so performers could use the family piano.[13] On June 26, 1920, a special concert was broadcast for the patients at the Tuberculosis League Hospital.[14]
+Conrad also continued to conduct experimental radio work. In the summer of 1920, the American Radio Relay League, in conjunction with the United States Bureau of Standards, conducted a series of tests investigating the phenomenon of radio signal "fading"–the variations in signal strength that affected long-distance signals during nighttime operation. 8XK was one of the key stations participating in these tests.[15]
+
+Broadcasting station KDKA
+In late 1920, 8XK's entertainment broadcasts would spark Westinghouse's entry into the broadcasting field. The Joseph Horne department store ran daily full-page advertisements in the Pittsburgh papers, and its September 23 placement[16] noted that the store had started selling simple "wireless receiving stations". Then, in the September 29 installment,[17] the ad mentioned that the Horne staff had recently heard an "air concert" from Conrad's station. Upon seeing this latest ad, Westinghouse vice president H. P. Davis immediately began to spearhead the construction of a Westinghouse broadcasting station. His idea was that the company could start selling its own radio receivers to the general public, with the free daily entertainment offered by a broadcasting station stimulating sales.
+The American Radio Relay League had already set up a program for various amateur stations to distribute voting results on election day, November 2, and in the Pittsburgh area 8XK had been scheduled to be the local participant. However, Westinghouse decided to inaugurate its new broadcasting service on the same night, so Conrad switched to supporting that effort instead.[18] Westinghouse's election night broadcast was successfully conducted over station 8ZZ (soon to become KDKA) in East Pittsburgh, with Conrad maintaining a watch at his Wilkinsburg garage, ready to have 8XK take over if 8ZZ had experienced problems.
+Westinghouse went on to have a leading role in the development of radio broadcasting in the United States. Conrad revised his earlier receiver designs to create consumer products for the company's new customers,[19] and when Westinghouse began selling model RA Tuners and DA Detectors in early 1921, they were advertised as employing "the latest ideas of two noted engineers, Edwin H. Armstrong and Frank Conrad".[20]
+
+Later life
+Conrad ended his entertainment broadcasts soon after the establishment of KDKA, although 8XK was one of the primary participants in the February 1921 "Washington's Birthday Relay", in which amateur stations received and retransmitted nationwide a special thirty word message.[21] He also continued doing groundbreaking radio research. While investigating transmitter "harmonics"–unwanted additional radio signals produced at higher frequencies than a station's normal transmission frequency–he unexpectedly found that in some cases the harmonics could be heard farther than the primary signal, something previously thought impossible, as high-frequency radio signals, which had poor groundwave coverage, were thought to have a much more limited transmission range. This led Westinghouse to begin evaluating the commercial potential of shortwave transmissions. In 1924, Conrad demonstrated to RCA's David Sarnoff that low-powered shortwave signals from East Pittsburgh could be readily received in London, using a simple receiver with a curtain rod as an antenna. This matched, at a small fraction of the cost, the performance of the then-current RCA method for transatlantic radio, which used massive longwave Alexanderson alternator transmitters for producing signals that were sent and received using antennas with lengths measured in kilometers.
+Conrad's last license for 8XK was deleted on November 3, 1924. The next month Westinghouse arranged to have the callsign of an experimental station in East Pittsburgh changed from 8XAU to 8XK, and the historic call began to be heard worldwide, conducting shortwave transmission tests. In 1928, Conrad demonstrated a movie-film-to-television converter at Westinghouse, and he also did research in narrow-band FM transmissions.
+
+Death and legacy
+Conrad retired from Westinghouse in 1940. He suffered a heart attack on November 6, 1941 while driving to his winter home in Miami, Florida, and died there on December 10, 1941.[22]
+He received numerous awards for his work, including, from the American Institute of Electrical Engineers, the 1930 Edison Medal "for his contributions to radio broadcasting and short wave radio transmission", and the 1936 Lamme Medal "for pioneering and basic developments in the fields of electric metering and protective services". In 2001, the Wilkinsburg garage that had housed 8XK was carefully dismantled and placed into storage by the National Museum of Broadcasting,[23] with the hope that it can some day be rebuilt to house a broadcasting museum. In the A Return to Normalcy episode of the TV program Boardwalk Empire, employing artistic license, Frank Conrad is portrayed as the person announcing the 1920 election results from Pittsburgh.
+A dramatization of Conrad's life and his relationship with his wife Flora premiered as a stage musical in the Washington D.C. area under the title On Air.[24]
+
+References
+	"Who's Who in Amateur Wireless", QST, February 1921, page 39.
+	"Radio—Trick Watch: First Radio Broadcasting Followed Founder's Time Wager in Pittsburgh", Literary Digest, March 13, 1937, page 19.
+	"A Bibliography of Frank Conrad" (Third edition, 2007) by David W. Kraeuter, Editor.
+	"Radio Pioneer's Bet A Trick, Widow Says", Pittsburgh Press, September 7, 1957, page 2.
+	"Frank Conrad: Sleepless Genius", National Museum of Broadcasting (nmbpgh.org)
+	"New Stations: Special Land Stations", Radio Service Bulletin, August 1, 1916, page 3. The leading "8" in 8XK's call sign indicated that the station was located in the eighth Radio Inspection district, while the "X" signified that the station was operating under an Experimental license.
+	"Dr. Conrad Founds KDKA" by Donald G. Little, American Heritage, August 1955, page 71 (americanheritage.com)
+	"Signing Off on the First Ten Years" by George W. Gray, World's Work, December 1930, page 46.
+	Experimental License number 236½, call sign 8XK, covering January 21, 1920-January 20, 1921.
+	Presumably Conrad had been given an informal authorization to operate pending the license reissuance. "Getting Your Licenses" (QST, November 1919, page 12) noted that "Radio Inspectors are authorized, however, to advise applicants what call letters they will eventually receive on their licenses and authorize them to commence operation at once, using their official call, without awaiting receipt of the actual license."
+	"The Radio Amateur" by C. E. Urban, "Wireless Telephone Here", Pittsburgh Gazette Times, October 26, 1919, Sixth section, page 13.
+	Gray (1930) page 47. Some earlier examples of record stores providing phonograph records to radio stations in exchange for publicity include Charles Herrold's station in San Jose, California beginning on 1912, and Lee de Forest's 2XG in New York City, beginning in 1916.
+	"The Radio Amateur" by C. E. Urban, Pittsburgh Gazette Times, May 2, 1920, Sixth section, page 4.
+	"The Radio Amateur" by C. E. Urban, Pittsburgh Gazette Times, July 4, 1920, Second section, page 5.
+	"The Bureau of Standards—A.R.R.L. Tests of Short Wave Signal Fading" by S. Kruse, QST. Part I: November 1920, pages 5-12, 37; Part II: December 1920, pages 13-19, 22.
+	"The Horne Daily News: Wireless Receiving Station Installed at Horne's" (advertisement), Pittsburgh Press, September 23, 1920, page 13.
+	"The Horne Daily News: Air Concert 'Picked Up' By Radio Here" (advertisement), Pittsburgh Press, September 29, 1920, page 11.
+	"The Radio Amateur" by C. E. Urban, Pittsburgh Gazette Times, October 24, 1920, Sixth Section, page 4.
+	Radio Manufacturers of the 1920s: Vol. 3—RCA to Zenith by Alan Douglas, 1991, pages 2-4.
+	" Westinghouse Radio Receiving Equipment" (advertisement), The Wireless Age, May 1921, page 1. The sets used a licensed version of Armstrong's regeneration patent.
+	"The Washington's Birthday Relay", QST, February 1921, page 19.
+	"Frank Conrad, KDKA Founder, Dies in Miami", Pittsburgh Press, December 11, 1941, page 37.
+	Conrad Project, National Museum of Broadcasting (nmbpgh.org)
+	Marks, Peter (May 17, 2019). "They Write and Write and Write: a Washington songwriting team churns out a bushel of musicals". The Washington Post. Retrieved May 18, 2019.
+	Radio portal
+	Television portal
+
+External links
+	"Frank Conrad, KDKA Founder, Dies in Miami"(obituary), Pittsburgh Press, December 11, 1941.
+	"Frank Conrad: Biography", Engineering and Technology History Wiki (ethw.org)
+	"Conrad's Garage – Lost and Found Sound: Replaying the Earliest Days of Radio". National Public Radio All Things Considered documentary about Conrad's work, November 30, 2005 (npr.org)
+	"Frank Conrad" by James E. Brittain, Proceedings of the IEEE, June 2007, pages 1378–1380 (ieee.org)
+	"Milestones: Westinghouse Radio Station KDKA, 1920", dedicated June 1994, Engineering and Technology History Wiki (ethw.org)

@@ -1,0 +1,23 @@
+Friedrich Engel (mathematician)
+
+Friedrich Engel (December 26, 1861 – September 29, 1941) was a German mathematician.
+Engel was born in Lugau, Saxony, as the son of a Lutheran pastor. He attended the Universities of both Leipzig and Berlin, before receiving his doctorate from Leipzig in 1883.
+Engel studied under Felix Klein at Leipzig, and collaborated with Sophus Lie for much of his life. He worked at Leipzig (1885–1904), Greifswald (1904–1913), and Giessen (1913–1931). He died in Giessen.
+Engel was the co-author, with Sophus Lie, of the three volume work Theorie der Transformationsgruppen (publ. 1888–1893; tr., "Theory of transformation groups"). Engel was the editor of the collected works[1][2] of Sophus Lie with six volumes published between 1922 and 1937; the seventh and final volume was prepared for publication but appeared almost twenty years after Engel's death. He was also the editor of the collected works of Hermann Grassmann.[3] Engel translated the works of Nikolai Lobachevski from Russian into German, thus making these works more accessible. With Paul Stäckel he wrote a history of non-Euclidean geometry (Theorie der Parallellinien von Euklid bis auf Gauss, 1895). With his former student Karl Faber, he wrote a book on the theory of partial differential equations of the first order using methods of Lie group theory.[4] In 1910 Engel was the president of the Deutsche Mathematiker-Vereinigung.
+
+See also
+	Engel group
+	Engel expansion
+	Engel's theorem
+
+References
+	Carmichael, R. D. (1923). "Volume III of Lie's Memoirs". Bull. Amer. Math. Soc. 29 (8): 367–369. doi:10.1090/s0002-9904-1923-03758-0.
+	Carmichael, R. D. (1930). "Sophus Lie's Gesammelte Abhandlungen (Vol. 4)". Bull. Amer. Math. Soc. 36 (5): 337. doi:10.1090/s0002-9904-1930-04950-2.
+	Wilson, E. B. (1915). "Review: Hermann Grassmanns gesammelte mathematische und physikalische Werke. Herausgegeben von FRIEDRICH ENGEL". Bull. Amer. Math. Soc. 22 (3): 149–150. doi:10.1090/s0002-9904-1915-02746-1.
+	Wintner, Aurel (1933). "Review: Friedriech Engel, Die Liesche Theorie der partiellen Differentialgleichungen der erster Ordnung". Bull. Amer. Math. Soc. 39 (3): 183–184. doi:10.1090/s0002-9904-1933-05564-7.
+
+External links
+	Works by or about Friedrich Engel at Internet Archive
+	O'Connor, John J.; Robertson, Edmund F., "Friedrich Engel", MacTutor History of Mathematics archive, University of St Andrews.
+	Friedrich Engel at the Mathematics Genealogy Project
+	Literature by and about Friedrich Engel (mathematician) in the German National Library catalogue

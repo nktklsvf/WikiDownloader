@@ -1,0 +1,40 @@
+Giacomo Candido
+
+Giacomo Candido (10 July 1871, Guagnano – 30 December 1941, Galatina) was an Italian mathematician and historian of mathematics.
+
+Contents
+
+	1 Education and career
+	2 Candido's identity
+	3 Selected publications
+	4 References
+	5 External links
+
+Education and career
+In 1897 Candido received his Laurea (teaching degree) from the University of Pisa and started to teach mathematics: first, at the Liceo of Galatina, then at the Liceo of Campobasso and from 1927 at the Liceo of Brindisi.[1]
+He was an editor and contributor for the Periodico di Matematica per l'Insegnamento secondario and was one of the founders of the journal La Matematica elementare (an intermediate-level journal for teachers, engineers and students).[2]
+He was an Invited Speaker of the ICM in 1928 in Bologna[3] and in 1932 in Zürich. In 1934 he founded the Apulian branch of Mathesis, an Italian association of mathematics teachers.
+He is also remembered for his work on the history of mathematics.
+
+Candido's identity
+Candido devised his eponymous identity to prove that
+where Fn is the nth Fibonacci number. The identity of Candido is that, for all real numbers x and y,[4][5]
+
+Selected publications
+	Sulle funzioni Un , Vn di Lucasin Periodica matematica, anno XVII, 1901–1902
+	La formola di Waring e sue notevoli applicazioni, Tipografia editrice salentina, 1903
+	Su d'un' applicazione delle funzioni Un , Vn di Lucas in Periodica matematica, anno XX, 1904–1905
+	Le equazioni reciproche in senso generale in Periodico matematica, anno XXI, 1905–1906
+	Il fondo Palagi-Libri della Biblioteca Moreniana di Firenze, in Atti del II Congresso della Unione Matematica Italiana, ed. Cremonese, 1941
+	Sulla mancata pubblicazione nel 1826 della celebre memoria di Abel, ed. Marra, Galatina, 1942
+	Conferenze e discorsi, ed. Marra, Galatina, 1943
+	Scritti matematici, ed. Marzocco, Firenze, 1948
+
+References
+	"Biografia SISM". Archived from the original on 2012-07-17.
+	Goldstein, Catherine; Schappacher, Norbert; Schwermer, Joachim (2007). The Shaping of Arithmetic after C.F Gauss's Disquisitiones Arithmeticae. p. 438.
+	Candido, G. "Applicazione delle funzioni Un e Vn di Lucas all'analisi indeterminata." In Atti del Congresso Internazionale dei Matematici: Bologna del 3 al 10 de settembre di 1928, vol. 2, pp. 17–24. 1929.
+	Alsina, Claudi; Nelsen, Roger B. (2007). "On Candido's Identity" (PDF). Mathematics Magazine. 80 (3): 226–228. Archived from the original (PDF) on 2008-07-05.
+	Koshy, Thomas (2014). "Candido's Identity and the Pell Family". Pell and Pell-Lucas Numbers with Applications. p. 169.
+
+External links
