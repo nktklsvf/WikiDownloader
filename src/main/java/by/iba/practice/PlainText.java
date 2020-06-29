@@ -66,7 +66,7 @@ public class PlainText {
                             if (childElement.tag().normalName().equals("ul")) {
                                 result.append(Constants.LINE_SEPARATOR)
                                         .append(parseList(childElement, depthLevel + 1))
-                                        .deleteCharAt(result.length() - 1);
+                                        .delete(result.length() - Constants.LINE_SEPARATOR.length(), result.length());
                             } else {
                                 result.append(childElement.text());
                             }
